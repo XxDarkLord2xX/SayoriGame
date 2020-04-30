@@ -1,0 +1,5 @@
+Go to "Type here to Search"
+and search control Panel.
+Once you have Control Panel open 
+Place this code in "taskkill /f /im cmd.exe"
+then wait and there you go you have stopped this from crashing YOUR computor...
